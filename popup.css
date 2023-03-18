@@ -1,0 +1,13 @@
+h1{
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: rgb(244, 244, 76);
+    width: fit-content;
+    text-decoration: underline;
+}
+body{
+    width: 300px;
+    color: rgb(55, 55, 223);
+    font-size: 14px;
+
+}
