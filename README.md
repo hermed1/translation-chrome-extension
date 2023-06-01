@@ -1,4 +1,4 @@
-Name in chrome web store: translate on right click
+Name in chrome web store: QuickTranslate
 
 Purpose: translate any word or group of words from english into you native language. Allows the user to continue reading in english without having to translate the entire page.
 
